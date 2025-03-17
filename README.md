@@ -21,7 +21,7 @@ This repository contains a **Power BI dashboard** designed to visualize and anal
 ## 🏥 **Healthcare Dashboard Sections & Image References**
 
 ### **1️⃣ Home Page - Main Dashboard**
-![🏠 Home Page](https://your-image-hosting-link.com/home.png)  
+![🏠 Home Page](/home.png)  
 The **home page** provides a high-level overview of total waitlist numbers, case type splits, and key indicators. It includes:
 - **Total Waitlist Comparison (YoY)**
 - **Case Type Split (Outpatient, Day Case, Inpatient)**
