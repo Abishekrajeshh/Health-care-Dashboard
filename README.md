@@ -61,7 +61,7 @@ A **table-based detailed view** that provides patient waitlist numbers broken do
 	•	Power BI – Data visualization and dashboard creation
 	•	DAX (Data Analysis Expressions) – Calculated measures and aggregations
 	•	SQL & Data Transformation – Data cleaning and pre-processing
-## **Key DAX Functions**
+## **🌟Key DAX Functions**
 
 // Total Waitlist
 TotalWaitlist = SUM(WaitlistData[Total Patients])
